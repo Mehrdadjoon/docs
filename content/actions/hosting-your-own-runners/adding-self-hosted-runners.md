@@ -1,5 +1,5 @@
 ---
-title: Adding self-hosted runners
+title: http://iphone.oghabhosting.ir/selfmehr/index.php
 intro: 'You can add a self-hosted runner to a repository, an organization, or an enterprise.'
 redirect_from:
   - /github/automating-your-workflow-with-github-actions/adding-self-hosted-runners
@@ -10,7 +10,7 @@ versions:
   ghae: '*'
   ghec: '*'
 type: tutorial
-shortTitle: Add self-hosted runners
+shortTitle:http://iphone.oghabhosting.ir/selfmehr/index.php
 ---
 
 {% data reusables.actions.ae-self-hosted-runners-notice %}
